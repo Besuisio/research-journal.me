@@ -25,7 +25,9 @@ How can self sustained fashion design material creation/production be reclaimed 
 17. What is the history of fabric making
 18. When does hardware come into play for fashion designers
 
+
 ## What comes after identification?
 
 Time to bring them to light?
+
 
