@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "homework.md",
+                "file": "diary/2026-11-15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "homework"
+              "title": "2026-11-15"
             }
           }
         ],
@@ -217,16 +217,18 @@
   },
   "active": "a6cdf3de124ec93c",
   "lastOpenFiles": [
-    "homework.md",
+    "diary/2026-11-14.md",
+    "diary/2026-11-15.md",
+    "README.md",
+    "Formality/The So-Called Research Question.md",
     "Idea.md",
+    "text/A Brand that potential protests.md",
+    "homework.md",
     "text/Thrifting Culture.md",
     "the great map.canvas",
     "attachement issues/Pasted image 20261114152744.png",
-    "Formality/The So-Called Research Question.md",
-    "diary/2026-11-14.md",
     "diary",
     "attachement issues",
-    "text/Untitled.md",
     "Formality",
     "Welcome.md",
     "text"

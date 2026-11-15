@@ -24,6 +24,7 @@ How can self sustained fashion design material creation/production be reclaimed 
 16. How do fashion education institutes bring up their fashion design students into the world of fashion
 17. What is the history of fabric making
 18. When does hardware come into play for fashion designers
+19. Are there any bigger orgs that are protesting?
 
 
 ## What comes after identification?
