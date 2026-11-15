@@ -1,5 +1,5 @@
-> My Personal Research Journal
-> Where archive and collect all sorts of sources for my DAE research project
+> My Personal Research Journal  
+> Where I archive and collect all sorts of sources for my DAE research project
 
 ## The Topic/Field I am investigating is: 
 - Sustainable Fashion Design 
