@@ -20,3 +20,19 @@ For keepsake and collecting sources, I use Obsidian and this git Repository to s
 ### 3. Usable Stuff
 
 \[I expect at this stage that I have something to present, not in the grandiose way, but something that can visually communicate and is open for discussion and wider interpretation]
+
+
+---
+
+## License
+
+Unless otherwise stated, my original research,
+writing, and visual work are licensed under the
+Creative Commons Attribution 4.0 International
+(CC BY 4.0) license.
+
+See [LICENSE](LICENSE) for details.
+
+Third-party materials remain subject to their
+respective copyright and licensing conditions.
+
